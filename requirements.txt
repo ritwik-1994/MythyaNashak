@@ -1,0 +1,5 @@
+easyocr==1.7.0
+Flask==2.2.3
+googletrans==3.1.0a0
+langchain==0.0.196
+twilio==8.2.2
